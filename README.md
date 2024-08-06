@@ -7,7 +7,7 @@ pip install -r requiremnts.txt
 
 Изменение администратора:
 
-![alt text](image.png)
+248 строка - поменяйте id На ваш
 
 Запуск:
 
