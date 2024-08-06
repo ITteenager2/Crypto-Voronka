@@ -1,0 +1,5 @@
+aiogram==2.9
+moviepy
+apscheduler
+aiohttp
+sqlite3
