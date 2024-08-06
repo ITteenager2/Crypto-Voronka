@@ -1,0 +1,2 @@
+# Crypto-Voronka
+Крипто воронка
